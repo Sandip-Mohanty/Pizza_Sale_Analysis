@@ -33,7 +33,7 @@ This project aims to analyze the pizza sales data using MySQL to gain insights i
 
 ### Tech Stacked Used
 ![1012821_code_development_logo_mysql_icon (1)](https://github.com/user-attachments/assets/87484740-cb80-44e1-89c2-b1d6babbc484) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![2993694_brand_brands_excel_logo_logos_icon (2)](https://github.com/user-attachments/assets/5d43f0aa-d04c-47d0-9544-262a565d1ad3)
-
+- Reporting: MySQL
 
 ### Data Overview
 ![ER_model_pizza_sales](https://github.com/user-attachments/assets/c48c8f57-224d-4d90-8537-52ccbd60d348)
